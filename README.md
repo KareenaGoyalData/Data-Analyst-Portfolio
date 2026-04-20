@@ -38,7 +38,7 @@ in Summer 2026.
 ---
 
 ## Tools & Technologies
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, C, C++, HTML, java
 - **Libraries:** pandas, matplotlib, seaborn, scikit-learn, numpy
 - **Other:** Excel, Git, GitHub
 
