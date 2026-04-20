@@ -19,7 +19,7 @@ in Summer 2026.
   smoker × BMI interaction term
 - Discovered a clinically significant charge threshold at BMI ≥ 30 for smokers
 
-🔗 [View Project][(https://github.com/KareenaGoyalData/US-medical-insurance-costs)]
+🔗 [View Project](https://github.com/KareenaGoyalData/US-medical-insurance-costs)
 
 ---
 
@@ -38,7 +38,7 @@ in Summer 2026.
 ---
 
 ## Tools & Technologies
-- **Languages:** Python, SQL, C, C++, HTML, java
+- **Languages:** Python, SQL, C, C++, HTML, Java
 - **Libraries:** pandas, matplotlib, seaborn, scikit-learn, numpy
 - **Other:** Excel, Git, GitHub
 
